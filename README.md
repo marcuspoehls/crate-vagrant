@@ -1,6 +1,6 @@
 # vagrant-crate
 This is a vagrant box providing you an Ubuntu 14.04 machine containing
-a single CrateDB.
+a single [CrateDB](https://github.com/crate/crate) instance.
 
 
 ## Installation
